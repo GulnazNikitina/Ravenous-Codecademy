@@ -7,7 +7,7 @@ I created this project wathing videos from Codecademy specialist.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
 
 
 
